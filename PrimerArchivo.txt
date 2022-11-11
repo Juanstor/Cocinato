@@ -1,0 +1,5 @@
+Hola, este es el primer archivo de Cocinato.
+Falta mejorar el nombre, detallar el enfoque, y establecer llaves HSS y protocolos de Github.
+11/11/2022
+
+Juanstor

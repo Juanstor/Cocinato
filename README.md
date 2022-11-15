@@ -14,4 +14,7 @@ Nunca ha sido más fácil decidir qué comer en toda la semana o hasta hacer el 
 
 > Esta web es un borrador para poder afianzar las habilidades de programador, así presentando proyectos personales para agregar al portafolio de trabajos. 
 
+En construcción de la página, visible en https://juanstor.github.io/Cocinato/
+
 Todo esto y mucho más gracias al esfuerzo de nunca parar de aprender. Con un objetivo en mente y mi progreso [evidenciado.](https://platzi.com/p/Juan_Alvarez/ "evidenciado.")
+
